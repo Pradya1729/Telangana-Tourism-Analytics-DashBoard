@@ -65,8 +65,9 @@ The Power BI dashboard is built around four key views:
 ## 📁 Repository Structure
 ```
 ├── README.md
-├── assets/
-│   ├── Title.png
-│   └── Analysis.png
-└── telangana_tourism.pbix   (Power BI file — add here)
+├── asset/
+    ├── Title.png
+    └── Analysis.png
+    |__telangana_tourism.pbix   (Power BI file — add here)
+
 ```
