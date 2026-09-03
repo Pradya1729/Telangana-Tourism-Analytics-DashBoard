@@ -1,6 +1,6 @@
 # Telangana Tourism Analysis 🏛️
 
-![Telangana Tourism Analysis](./assets/telangana-tourism-cover.png)
+![Telangana Tourism Analysis]([./assets/telangana-tourism-cover.png](https://github.com/Pradya1729/Telangana-Tourism-Analytics-DashBoard/blob/fa04ff25ad5079d977893e5ec870782526ec4898/asset/ChatGPT%20Image%20Sep%202%2C%202026%2C%2011_38_03%20AM.png))
 
 ## 📌 Introduction / Problem Statement
 
