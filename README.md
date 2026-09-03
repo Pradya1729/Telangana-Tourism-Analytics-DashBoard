@@ -1,6 +1,6 @@
 # Telangana Tourism Analysis 🏛️
 
-![Telangana Tourism Analysis]([./assets/telangana-tourism-cover.png](https://github.com/Pradya1729/Telangana-Tourism-Analytics-DashBoard/blob/fa04ff25ad5079d977893e5ec870782526ec4898/asset/ChatGPT%20Image%20Sep%202%2C%202026%2C%2011_38_03%20AM.png))
+![Telangana Tourism Analysis](asset/Title.png)
 
 ## 📌 Introduction / Problem Statement
 
@@ -22,7 +22,7 @@ Without such visibility, decision-makers face challenges in:
 
 ## 📊 Analysis & Key Insights
 
-![Telangana Tourism Dashboard](./assets/telangana-tourism-dashboard.png)
+![Telangana Tourism Dashboard](asset/Analysis.png)
 
 ### Dashboard Overview
 The Power BI dashboard is built around four key views:
@@ -66,7 +66,7 @@ The Power BI dashboard is built around four key views:
 ```
 ├── README.md
 ├── assets/
-│   ├── telangana-tourism-cover.png
-│   └── telangana-tourism-dashboard.png
+│   ├── Title.png
+│   └── Analysis.png
 └── telangana_tourism.pbix   (Power BI file — add here)
 ```
