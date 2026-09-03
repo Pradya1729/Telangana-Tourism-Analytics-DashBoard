@@ -20,6 +20,11 @@ Without such visibility, decision-makers face challenges in:
 
 📅 **4 years (2016–2019) of Domestic & Foreign visitor data**, tracked across all Telangana districts.
 
+| Metric | Domestic | Foreign |
+|---|---|---|
+| Total Visitors (2016–2019) | **356M** | **1M** |
+| Projected Visitors (2025) | **4.80M** | **1.22M** |
+
 ## 📊 Analysis & Key Insights
 
 ![Telangana Tourism Dashboard](asset/Analysis.png)
@@ -50,6 +55,23 @@ The Power BI dashboard is built around four key views:
 3. **Only a few districts (Warangal Rural, Wanaparthy, Siddipet) show consistent year-on-year growth**, while most — including the top-performing Hyderabad — show inconsistent trends, suggesting fluctuating rather than steadily compounding demand.
 4. **Tourist demand is projected to grow into 2025**, reinforcing the need for proactive infrastructure and capacity planning rather than reactive scaling.
 
+### Foreign Visitor Analysis
+
+| Metric | Value |
+|---|---|
+| Total Foreign Visitors (2016–2019) | **1M** |
+| Projected Foreign Visitors (2025) | **1.22M** |
+| Share of Total Tourism (2016–2019) | ~0.3% of combined Domestic + Foreign footfall |
+
+**Key insight:** Foreign visitor volume is a small fraction of Domestic footfall, but the **2025 projection (1.22M) is already higher than the entire 2016–2019 historical total (1M)** — signaling a sharp anticipated acceleration in international tourism, proportionally faster than the Domestic growth curve (Domestic 2025 projection of 4.80M is well below its 4-year historical total of 356M).
+
+**Implications:**
+- International tourism is starting from a small base but is **projected to grow disproportionately faster** — worth tracking as a distinct, high-growth-potential segment rather than folding it into overall visitor targets.
+- Because Foreign visitor volume is much smaller in scale, it doesn't show up meaningfully on the shared "Domestic vs Foreign" bar chart (which is scaled for the much larger Domestic numbers) — a **dedicated Foreign-only view** (separate axis or district/monthly breakdown) would help surface where this growth is concentrated.
+- **Recommendation:** Segment future dashboards to track Foreign visitors independently (by district and month) so that inbound international tourism trends aren't masked by the much larger Domestic volume.
+
+
+
 ### Recommendations
 - **Diversify promotion efforts** toward high-potential but under-visited districts to reduce over-reliance on Hyderabad.
 - **Plan capacity and staffing around peak season** (Dec–Feb) to avoid overcrowding, and design off-season (Jun–Aug) campaigns/discounts to smooth demand.
@@ -65,9 +87,9 @@ The Power BI dashboard is built around four key views:
 ## 📁 Repository Structure
 ```
 ├── README.md
-├── asset/
-    ├── Title.png
-    └── Analysis.png
-    |__telangana_tourism.pbix   (Power BI file — add here)
-
+├── assets/
+   ├── Title.png
+   └── Analysis.png
+   └── telangana_tourism.pbix   (Power BI file — add here)
+```
 ```
